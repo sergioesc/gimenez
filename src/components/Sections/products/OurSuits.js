@@ -1,6 +1,8 @@
 import React, {useState , useEffect} from 'react'
 import './OurSuits.css'
 
+import { faAngleDown } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const OurSuits = () => {
     const[Items, setItems] = useState([])
     const [visible, setVisible]= useState(2)
@@ -39,7 +41,7 @@ const OurSuits = () => {
                     </div>
                 ))}
             </div>
-            <p onClick={showMore} className='button-show-more'>SHOW MORE <i className='fas fa-angle-down'></i></p>
+            <p onClick={showMore} className='button-show-more'>SHOW MORE <FontAwesomeIcon icon={faAngleDown} /></p>
         </div>
     )
 }
