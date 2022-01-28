@@ -4,7 +4,7 @@ import './OurSuits.css'
 const OurSuits = () => {
     const[Items, setItems] = useState([])
     const [visible, setVisible]= useState(2)
-    const apiURL = '/data/dataSuits.json'
+    const apiURL = 'https://raw.githubusercontent.com/sergioesc/gimenez/master/public/data/dataSuits.json'
 
 
     const showMore = () => {

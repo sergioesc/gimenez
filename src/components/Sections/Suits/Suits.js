@@ -3,7 +3,7 @@ import './Suits.css'
 
 import {Link} from 'react-router-dom'
 const SuitStore = () => {
-    const apiURLstore = '/data/dataSuitsStore.json'
+    const apiURLstore = 'https://raw.githubusercontent.com/sergioesc/gimenez/master/public/data/dataSuitsStore.json'
     const [suits, setSuits] = useState([])
     useEffect(()=>{
         fetch(apiURLstore)
