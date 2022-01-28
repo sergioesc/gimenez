@@ -9,21 +9,21 @@ const Navbar = () => {
         <div className="navbar">
             <div className="logo-nav">
                 <div className="logo-container">
-                    <Link to="/" className='logo-container-home'></Link>
+                    <Link to="/gimenez" className='logo-container-home'></Link>
                 </div>
                 <ul className="nav-option">
                     <li>
-                        <Link to="/about">
+                        <Link to="/gimenez/about">
                             ABOUT
                         </Link>
                     </li>
                     <li>
-                        <Link to="/contact">
+                        <Link to="/gimenez/contact">
                             CONTACT
                         </Link>
                     </li>
                     <li > 
-                        <Link to="/suits">
+                        <Link to="/gimenez/suits">
                             SUITS
                         </Link>
                     </li>
