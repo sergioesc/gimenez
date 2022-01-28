@@ -3,37 +3,37 @@
         "id": 1,
         "name": "SLIM SUIT BLAZER",
         "description": "Notched lapel collar blazer. Long sleeves with cuffs and button detail. Welt pocket on the chest and flap pocket on the hip. Inside pocket detail. Front closure with buttons.",
-        "img": "../images/suits/suit1.jpg"
+        "img": "https://raw.githubusercontent.com/sergioesc/gimenez/master/public/images/suits/suit1.jpg"
     },
     {
         "id": 2,
         "name": "SLIM SUIT BLAZER",
         "description":"Notched lapel collar blazer. Long sleeves with cuffs and button detail. Welt pocket on the chest and flap pocket on the hip. Inside pocket detail. Front closure with buttons.",
-        "img": "../images/suits/suit2.jpg"
+        "img": "https://raw.githubusercontent.com/sergioesc/gimenez/master/public/images/suits/suit2.jpg"
     },
     {
         "id": 3,
         "name": "PARTRIDGE EYE SUIT BLAZER",
         "description":"Regular-fit blazer. Notched lapel collar and long sleeves with buttoned cuffs. Welt pocket on the chest and flap pocket on the hip. Inside pocket detail. Low with openings in the back. Front button closure.",
-        "img": "../images/suits/suit3.jpg"
+        "img": "https://raw.githubusercontent.com/sergioesc/gimenez/master/public/images/suits/suit3.jpg"
     },
     {
         "id": 4,
         "name": "PARTRIDGE EYE SUIT BLAZER",
         "description":"Regular-fit blazer. Notched lapel collar and long sleeves with buttoned cuffs. Welt pocket on the chest and flap pocket on the hip. Inside pocket detail. Low with openings in the back. Front button closure.",
-        "img": "../images/suits/suit4.jpg"
+        "img": "https://raw.githubusercontent.com/sergioesc/gimenez/master/public/images/suits/suit4.jpg"
     },
     {
         "id": 5,
         "name": "TEXTURED SUIT BLAZER",
         "description":"Notched lapel collar blazer. Long sleeves with cuffs and button detail. Welt pocket on the chest and flap pocket on the hip. Inside pocket detail. Front closure with buttons.",
-        "img": "../images/suits/suit5.jpg"
+        "img": "https://raw.githubusercontent.com/sergioesc/gimenez/master/public/images/suits/suit5.jpg"
     },
 
     {
         "id": 6,
         "name": "SLIM SUIT BLAZER",
         "description":"Notched lapel collar blazer. Long sleeves with cuffs and button detail. Welt pocket on the chest and flap pocket on the hip. Inside pocket detail. Front closure with buttons.",
-        "img": "../images/suits/suit6.jpg"
+        "img": "https://raw.githubusercontent.com/sergioesc/gimenez/master/public/images/suits/suit6.jpg"
     }
 ]
