@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gimenez/static/css/main.086c1955.css",
+    "main.js": "/gimenez/static/js/main.ff5d47d2.js",
+    "static/media/suit-we.jpg": "/gimenez/static/media/suit-we.fe1a7bd5e27b35f2a848.jpg",
+    "static/media/map.png": "/gimenez/static/media/map.e01329f4d8106352d92b.png",
+    "static/media/sotre.jpg": "/gimenez/static/media/sotre.f3b3c0d4195c6d5a21bd.jpg",
+    "static/media/mansuits.jpg": "/gimenez/static/media/mansuits.471fa11a9abc17567690.jpg",
+    "static/media/gimenez.png": "/gimenez/static/media/gimenez.da7cfd3063400474c223.png",
+    "static/media/whatsapp.png": "/gimenez/static/media/whatsapp.ea7849a8d7115f5e938b.png",
+    "static/media/instagram.png": "/gimenez/static/media/instagram.dcaec0db792ce665bd84.png",
+    "static/media/gorjeo.png": "/gimenez/static/media/gorjeo.a8a45401f060830f223a.png",
+    "index.html": "/gimenez/index.html",
+    "main.086c1955.css.map": "/gimenez/static/css/main.086c1955.css.map",
+    "main.ff5d47d2.js.map": "/gimenez/static/js/main.ff5d47d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086c1955.css",
+    "static/js/main.ff5d47d2.js"
+  ]
+}
