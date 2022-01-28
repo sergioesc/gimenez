@@ -5,9 +5,9 @@ const Foot = () =>{
     return(
         <div className='section-foot-container'>
             <ul>
-                <li><Link to="/privacy">Privacy policy</Link></li>
-                <li><Link to="/contact">Contact</Link></li>
-                <li><Link to="/about">About us</Link></li>
+                <li><Link to="/gimenez/privacy">Privacy policy</Link></li>
+                <li><Link to="/gimenez/contact">Contact</Link></li>
+                <li><Link to="/gimenez/about">About us</Link></li>
             </ul>
         </div>
     )
