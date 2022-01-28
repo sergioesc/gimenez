@@ -1,0 +1,60 @@
+.navbar{
+    background-color: black;
+    list-style: none;
+    font-weight: 700;
+    color: #f2f2f2;
+    font-size: 24px;
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+.logo-nav{
+    margin: auto;
+    width: 100%;
+}
+.logo-container {
+    display: flex;
+    margin: auto;
+    width: 100%;
+}
+.logo-container-home{
+    background : url("gimenez.png") center no-repeat;
+    background-size: cover;
+    width: 300px;
+    height:  300px;
+    margin: auto;
+}
+
+.nav-option{
+    display: flex;
+    list-style: none;
+    margin: auto;
+    justify-content: center;
+    width: 80%;
+}
+
+.nav-option li{
+    margin: auto;
+}
+.logo-nav a{
+    text-decoration: none;
+    color: #f2f2f2
+}
+
+@media screen and (max-width: 750px){
+    .logo-container-home{
+        width: 200px;
+        height: 200px;
+    }
+    .nav-option li{
+        font-size: 20px;
+    }
+}
+
+
+@media screen and (max-width: 475px){
+    .navbar{
+        width: 100%;
+    }
+
+}

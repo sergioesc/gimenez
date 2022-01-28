@@ -1,0 +1,29 @@
+.section-foot-container{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+}
+.section-foot-container ul{
+    display: flex;
+    width: 100%;
+}
+.section-foot-container ul li{
+    margin: auto;
+    list-style: none;
+    padding: 5px;
+    border-bottom: 2px solid white;
+}
+@media screen and (max-width: 500px){
+    .section-foot-container ul{
+        display: block;
+        width: 100%;
+    }
+
+    .section-foot-container ul li{
+     width: 50%;
+     text-align: center;
+     margin: 20px auto;
+
+    }
+}

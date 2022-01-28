@@ -1,0 +1,70 @@
+.section-we-container{
+    width: 80%;
+    margin: 40px auto;
+}
+.section-we-banner{
+    width: 100%;
+    height: 600px;
+    background:  url("suit-we.jpg")  no-repeat;
+    background-size: cover;
+    line-height: 600px;
+    text-align: center;
+}
+.section-we-banner-text{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, .5);
+    font-size: 70px;
+}
+
+.section-we-description{
+    margin:40px auto;
+    font-size: 18px;
+}
+.section-we-description p{
+    margin: 20px auto;
+}
+
+@media screen and (max-width: 1130px){
+    .section-we-banner-text{
+        font-size:50px
+    }
+}
+@media screen and (max-width: 750px){
+    .section-we-banner{
+        height: 400px;
+        line-height: 400px;
+    }
+    .section-we-banner-text{
+        font-size:36px;
+    }
+    .section-we-description{
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 550px){
+    .section-we-banner-text{
+        font-size:24px;
+    }
+
+    .section-we-banner{
+        height: 300px;
+        line-height: 300px;
+    }
+}
+
+@media screen and (max-width: 360px){
+    .section-we-banner-text{
+        font-size:20px;
+    }
+    .section-we-container{
+        width: 90%;
+        
+    }
+}
+
+@media screen and (max-width: 300px){
+    
+
+}

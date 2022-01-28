@@ -1,0 +1,32 @@
+.section-find-map{
+    width: 80%;
+    margin: auto;
+    background: url("map.png") center no-repeat;
+    background-size: cover;
+}
+.section-find-text{
+    width: 100%;
+    background-color: rgba(0, 0, 0, .7);
+    margin: 40px auto;
+    padding: 40px;
+    text-align: center;
+}
+
+.section-find-text h2{
+    font-size: 40px;
+}
+.section-find-map a{
+    font-size: 14px
+}
+.section-find-map span{
+    color: rgb(156, 156, 255);
+}
+
+@media screen and (max-width: 750px){
+    .section-find-text{
+        padding: 20px
+    }
+    .section-find-text h2{
+        font-size: 27px;
+    }
+}
