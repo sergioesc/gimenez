@@ -15,7 +15,7 @@ const Who = () =>{
                 <p>
                     Find Men's suits for all events including Men's wedding suits and tuxedos, quinceaneras and special events suits, prom suits and tuxedos and more. We have the elegant look for your special occassion.
                 </p>
-                <Link to="/about">
+                <Link to="/gimenez/about">
                     About Us
                 </Link>
             </div>
